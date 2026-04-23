@@ -9,7 +9,7 @@
 - 🌍 I'm from India (🇮🇳)
 - ✏️ I like making games and writing software and programming languages
 - 🎮 My favorite games are Deltarune and Hollow Knight
-- 🎓 I'm currently using C#, Luau, JS/TS, Tauri, Godot, and Rust
+- 🎓 I'm currently using **C#**, **Luau**, **JS/TS**, **Tauri**, **Godot**, and **Rust**
 - 🔥 I'm currently working on [Ignite](https://github.com/creepersaur/ignite), a compiled programming language written in Rust 🦀
 - 💻 Extra:
   - [Quark](https://github.com/creepersaur/quark), a reactive UI library written in Luau
