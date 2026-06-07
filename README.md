@@ -15,7 +15,7 @@
   - [Quark](https://github.com/creepersaur/quark), a reactive UI library written in Luau
   - [Macro Mage](https://github.com/creepersaur/Macro-Mage), a scripting langauge for writing automated keyboard/mouse input sequences
   - [CreeperCli](https://github.com/creepersaur/CreeperCLI-2), a filesystem linker backend for automatically syncing files to Roblox Studio
-- Feeling free to contribute to a project!
+- Feel free to contribute to a project!
 
 <div align="center">
 
